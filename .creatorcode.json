@@ -1,0 +1,12 @@
+{
+  "id": "proj-y8btszr",
+  "name": "TeamBlaze",
+  "framework": "React",
+  "database": "None",
+  "createdAt": 1790262748457,
+  "publishedTitle": "TeamBlaze",
+  "publishedDescription": "TeamBlaze – DynamicsLab is a web-based 3D virtual engineering laboratory for studying ordinary and compound pendulums. It allows students to perform virtual experiments such as measuring dimensions, selecting suspension points, controlling the oscillation angle, timing oscillations, and analyzing the relationship between time period (T) and distance from the center of gravity (l).\n\nThe application uses React, Vite, Three.js, and React Three Fiber to provide an interactive 3D laboratory environment. It includes a physics-based compound pendulum simulation, virtual measurement tools, stopwatch/photogate timing, real-time graphs, theoretical vs experimental calculations, radius of gyration and moment of inertia calculations, error analysis, and digital lab reports.\n\nTechnology Stack: React 18, Vite, Three.js, React Three Fiber, JavaScript, HTML/CSS, WebGL and custom physics calculations.\n\nDeployment: The project is a frontend-only application with no database or backend dependency and can be deployed as a static web application.",
+  "publishedVersion": "v4",
+  "publishedTags": "React, Vite, Three.js, React Three Fiber, JavaScript, WebGL, Physics Simulation, Virtual Lab, Engineering, Pendulum Simulation, Compound Pendulum, 3D Simulation, E-Learning, STEM, Interactive Learning, Moment of Inertia, Radius of Gyration, Physics Lab",
+  "cloudProjectId": "ladyCs1RNghI71OC4xIF"
+}
