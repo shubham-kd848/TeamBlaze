@@ -1100,7 +1100,7 @@ input, select {
   position: absolute;
   bottom: 16px;
   right: 16px;
-  z-index: 25;
+  z-index: 30;
   display: flex;
   align-items: center;
   gap: 6px;
@@ -1140,7 +1140,7 @@ input, select {
   position: absolute;
   bottom: 60px;
   right: 16px;
-  z-index: 24;
+  z-index: 30;
   width: 580px;
   max-height: 500px;
   background: var(--bg-glass-strong);
